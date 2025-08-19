@@ -1,36 +1,26 @@
-Hi there, I'm Mehrdad Mokhtari 👋
-<p align="center">
-<img src="https://placehold.co/800x200/6366f1/FFFFFF?text=Security+%26+IT+Infrastructure+Professional" alt="Header Image showing title"/>
-</p>
 
-I'm a passionate and highly motivated IT & Security Infrastructure Engineer with over 10 years of experience designing, implementing, and managing complex IT systems across both on-premises and cloud environments.
+<div style="text-align:center;">
+  <img src="https://placehold.co/800x200/6366f1/FFFFFF?text=Mehrdad+Mokhtari\nNetwrokand+Infrasturcture+security" alt="Header Image showing title" />
+</div><br/>
+
+
+
+
+<h2>❗About Me</h2>
+<div>Highly motivated IT & Security Infrastructure Engineer with 10+ years of experience in designing, implementing, and managing complex IT systems and security solutions across on-premises and cloud environments (Azure, AWS). Proven ability to lead projects and troubleshoot complex issues. Expertise in Windows Server, Linux, virtualisation (VMware), networking (Cisco, Dell), security (Check Point, Bitdefender), and cloud technologies. Strong understanding of ITIL, ISO 27001, and industry best practices.</div> <br/>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mmokhta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="https://gitlab.com/Mehrdad261" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/></a>
+<a href="https://www.linkedin.com/in/mmokhta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><br/>
+<a href="https://gitlab.com/Mehrdad261" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/></a><br/>
 <a href="mailto:Mehrdad.mokhtari1370@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
 </p>
+<br/>
 
-👨‍💻 About Me
-I specialise in building and securing robust IT infrastructures, with proven expertise in:
-
-Cloud Technologies: Architecting and managing scalable solutions in AWS and Azure.
-
-Security Solutions: Implementing and managing firewalls, EDR, vulnerability assessments, and security best practices based on ISO 27001.
-
-Infrastructure Automation: Leveraging Terraform, Ansible, and scripting to automate deployments and improve efficiency.
-
-System Administration: Deep experience with Windows Server, Linux (RedHat/Ubuntu), and VMware virtualisation.
-
-Project Leadership: A strong ability to lead projects and troubleshoot complex technical challenges effectively.
-
-🛠️ My Tech Stack
-Here are some of the key technologies and tools I work with:
-
+<h3>🛠️ My Tech Stack Here are some of the key technologies and tools I work with:</h3>
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+<img src="https://banner2.cleanpng.com/20180601/oyq/kisspng-amazon-web-services-amazon-com-cloud-computing-mic-server-5b10fadbd6b679.8587962515278394518795.jpg" width="48" height="48" />
 <br><strong>AWS</strong>
 </td>
 <td align="center" width="120">
@@ -72,12 +62,17 @@ Here are some of the key technologies and tools I work with:
 <br><strong>Windows Server</strong>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="48" height="48" alt="Cisco" />
+<img src="https://banner2.cleanpng.com/20180630/yao/kisspng-cisco-systems-business-jabber-inc-router-computer-5b3806143c0198.5510458215303982282458.jpg" width="48" height="48" alt="Cisco" />
 <br><strong>Cisco</strong>
 </td>
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
 <br><strong>Jenkins</strong>
+</tr>
+  <tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows Server" />
+<br><strong>CheckPoint</strong>
 </td>
 </tr>
 </table>
