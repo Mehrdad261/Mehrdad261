@@ -16,7 +16,10 @@
 </p>
 <br/>
 
-<h2>🛠️ My Tech Stack Here are some of the key technologies and tools I work with:</h2><br/>
+
+
+
+<h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/skills.png" width="50" height="60" />My Tech Stack Here are some of the key technologies and tools I work with:</h2><br/>
 <table>
 <tr>
 <td align="center" width="120">
@@ -72,7 +75,7 @@
 <br/>
 <br/>
 
-<h2>🏆 Certifications</h2>
+<h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/certification.png" width="40" height="40" alt="Windows Server" /> Certifications</h2>
 I believe in continuous learning and hold several industry-recognised certifications:
 
 AWS Certified Solutions Architect - Associate
