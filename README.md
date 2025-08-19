@@ -12,7 +12,7 @@ I'm a passionate and highly motivated IT & Security Infrastructure Engineer with
 </p>
 
 👨‍💻 About Me
-I specialize in building and securing robust IT infrastructures, with proven expertise in:
+I specialise in building and securing robust IT infrastructures, with proven expertise in:
 
 Cloud Technologies: Architecting and managing scalable solutions in AWS and Azure.
 
@@ -20,7 +20,7 @@ Security Solutions: Implementing and managing firewalls, EDR, vulnerability asse
 
 Infrastructure Automation: Leveraging Terraform, Ansible, and scripting to automate deployments and improve efficiency.
 
-System Administration: Deep experience with Windows Server, Linux (RedHat/Ubuntu), and VMware virtualization.
+System Administration: Deep experience with Windows Server, Linux (RedHat/Ubuntu), and VMware virtualisation.
 
 Project Leadership: A strong ability to lead projects and troubleshoot complex technical challenges effectively.
 
