@@ -16,67 +16,60 @@
 </p>
 <br/>
 
-<h3>🛠️ My Tech Stack Here are some of the key technologies and tools I work with:</h3>
+<h2>🛠️ My Tech Stack Here are some of the key technologies and tools I work with:</h2><br/>
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://banner2.cleanpng.com/20180601/oyq/kisspng-amazon-web-services-amazon-com-cloud-computing-mic-server-5b10fadbd6b679.8587962515278394518795.jpg" width="48" height="48" />
-<br><strong>AWS</strong>
+<img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/AWS.png" width="70" height="70" />
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
-<br><strong>Azure</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="70" height="70" alt="Azure" />
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
-<br><strong>Terraform</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="70" height="70" alt="Terraform" />
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-<br><strong>Docker</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" height="70" alt="Docker" />
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
-<br><strong>Kubernetes</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="70" height="70" alt="Kubernetes" />
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible" />
-<br><strong>Ansible</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="70" height="70" alt="Ansible" />
 </td>
 </tr>
 <tr>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-<br><strong>Python</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" alt="Python" />
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell" />
-<br><strong>PowerShell</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="70" height="70" alt="PowerShell" />
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-<br><strong>Linux</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70" alt="Linux" />
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows Server" />
-<br><strong>Windows Server</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="70" height="70" alt="Windows Server" />
 </td>
 <td align="center" width="120">
-<img src="https://banner2.cleanpng.com/20180630/yao/kisspng-cisco-systems-business-jabber-inc-router-computer-5b3806143c0198.5510458215303982282458.jpg" width="48" height="48" alt="Cisco" />
-<br><strong>Cisco</strong>
+<img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/Cisco.png" width="70" height="70" alt="Cisco" />
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
-<br><strong>Jenkins</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="70" height="70" alt="Jenkins" />
 </tr>
   <tr>
 <td align="center" width="120">
-<img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/Check-Point.png" width="48" height="48" alt="Windows Server" />
-<br><strong>CheckPoint</strong>
+<img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/checkpoint.png" width="70" height="70" alt="Windows Server" />
 </td>
-    
+<td align="center" width="120">
+<img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/VMware-icon.png" width="70" height="70" alt="Windows Server" />
+</td>
+    <td align="center" width="120">
+<img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/zscaler.png" width="100" height="80" alt="Windows Server" />
+</td>
 </tr>
 </table>
+<br/>
 <br/>
 
 <h2>🏆 Certifications</h2>
