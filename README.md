@@ -1,6 +1,6 @@
 
 <div style="text-align:center;">
-  <img src="https://placehold.co/800x200/6366f1/FFFFFF?text=Mehrdad+Mokhtari\nNetwrokand+Infrasturcture+security" alt="Header Image showing title" />
+  <img src="https://placehold.co/800x200/6366f1/FFFFFF?text=Mehrdad+Mokhtari\nNetwrokand+and+Infrasturcture+security" alt="Header Image showing title" />
 </div><br/>
 
 
@@ -71,14 +71,16 @@
 </tr>
   <tr>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows Server" />
+<img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/Check-Point.png" width="48" height="48" alt="Windows Server" />
 <br><strong>CheckPoint</strong>
 </td>
+    
 </tr>
 </table>
+<br/>
 
-🏆 Certifications
-I believe in continuous learning and hold several industry-recognized certifications:
+<h2>🏆 Certifications</h2>
+I believe in continuous learning and hold several industry-recognised certifications:
 
 AWS Certified Solutions Architect - Associate
 
@@ -86,7 +88,7 @@ Microsoft Certified: Azure Administrator Associate (AZ-104)
 
 CheckPoint Certified Security Administrator (CCSA) R81.20
 
-VMware Certified Professional - Data Center Virtualization 2024 (VCP-DCV)
+VMware Certified Professional - Data Centre Virtualisation 2024 (VCP-DCV)
 
 CCNP Enterprise
 
