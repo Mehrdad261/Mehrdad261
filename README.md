@@ -81,7 +81,7 @@
 <h4>&#x2022; Network & IT Infrastructure manager | CommonStations LTD | London, UK | Sep 2018 - Jan 2020 </h4>
 <h4>&#x2022; Network & Security Infrastructure manager | Iran Dairy | Tehran, Iran | March 2014 - March 2018 </h4>
 
-<h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/certification.png" width="40" height="40" alt="Windows Server" /> Certifications</h2>
+<h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/success.gif" width="40" height="40"/> Certifications</h2>
 I believe in continuous learning and hold several industry-recognised certifications:
 
 AWS Certified Solutions Architect - Associate
