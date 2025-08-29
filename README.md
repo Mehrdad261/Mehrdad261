@@ -96,7 +96,7 @@ CCNP Enterprise
 
 ITIL 4 Foundation
 
-<h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/certification.png" width="40" height="40" alt="Windows Server" />Project</h2>
+<h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/project-initiation.gif" width="40" height="40"/> Project</h2>
 <h3>VMware ESXi and vSphere Virtualization Deployment</h3>
 <h4>Overview</h4>
 <p>This project focused on migrating multiple physical servers into a consolidated virtual infrastructure using VMware ESXi and vSphere.  
