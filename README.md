@@ -90,11 +90,46 @@
 <h5>&nbsp;&#x2022;&nbsp;&nbsp;CCNP Enterprise</h5>
 <h5>&nbsp;&#x2022;&nbsp;&nbsp;ITIL 4 Foundation</h5><br/>
 
-<h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/project-initiation.gif" width="40" height="40"/> Project</h2>
-<h3>VMware ESXi and vSphere Virtualization Deployment</h3>
+<h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/project-initiation.gif" width="40" height="40"/> Projects</h2>
+<h3>Project1: VMware ESXi and vSphere Virtualization Deployment</h3>
 <h4>Overview</h4>
 <p>This project focused on migrating multiple physical servers into a consolidated virtual infrastructure using VMware ESXi and vSphere.  
 The goal was to reduce hardware costs, improve resource utilisation, and enhance system performance and scalability.</p>
+
+#### Key Objectives
+<p>- Deploy VMware ESXi as a secure, high-performance virtualisation platform</p>
+<p>- Implement VMware vSphere for centralised management and monitoring</p> 
+<p>- Virtualise legacy physical servers with minimal downtime </p>
+<p>- Optimise compute, memory, and storage allocation</p> 
+<p>- Improve disaster recovery and business continuity</p>
+
+#### Implementation Details
+1. **ESXi Configuration**   
+   - Configured storage, networking, and host profiles on ESXi
+
+2. **vSphere Management**  
+   - Managed virtual machines, clusters, and resource pools via vSphere Client  
+
+3. **Server Virtualisation and Migration**  
+   - Used VMware vCenter Converter to migrate physical servers to virtual machines (P2V)  
+   - Validated application compatibility and performance post-migration  
+
+4. **Resource Optimization**  
+   - Allocated CPU, memory, and storage dynamically to meet workload demands  
+   - Implemented monitoring and alerts for capacity planning  
+
+#### Results and Benefits
+- **Cost Savings:** Reduced hardware footprint and power consumption  
+- **Performance Gains:** Improved system responsiveness and workload efficiency  
+- **Simplified Management:** Centralized VM administration through vSphere  
+- **Scalability:** Easily add or adjust resources as business needs grow  
+- **Business Continuity:** Improved backup, snapshot, and disaster recovery capabilities  
+
+#### Technologies Used
+- VMware ESXi 8.5
+- VMware vSphere 8.0 / vCenter Server  
+- VMware vCenter Converter  
+- Dell/HP server hardware 
 
 
 
