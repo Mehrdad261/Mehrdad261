@@ -173,7 +173,7 @@ This project involved designing, implementing, and managing a full Check Point s
   - Established **Site-to-Site VPN** with an interoperable device.
   - Deployed **Remote Access VPN** for secure remote connections.
 - **NAT & Firewall Rules:** Created multiple NAT rules and customised firewall rules for optimised traffic routing.  
-- **Dedicated Log Server:** Configured centralised logging for visibility and auditing and purse all the logs to the Splunk.  
+- **Dedicated Log Server:** Configured centralised logging for visibility and auditing, and purged all the logs to Splunk.  
 - **SmartEvent Deployment:** Implemented SmartEvent for real-time monitoring, reporting, and alerting.  
 - **Threat Prevention Customisation:** Tuned security policies for optimal protection and performance.  
 - **Policy Compliance Monitoring:** Ensured adherence to internal and regulatory security standards.  
@@ -215,3 +215,23 @@ This project involved designing, implementing, and managing a full Check Point s
 .
 <hr style="border-top: 1px dashed #bbb;" />
 
+## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/service-tools.gif" width="50" height="60" /> Skills Demonstrated
+- **Operating Systems:** Windows, Linux, Mac
+- **System Administration:** Windows Servers, Linux Server (RedHat, Ubuntu)
+- **Network:** 3COM, HP, Dell, CISCO, Novell Network
+- **Storage Technology:** SAN (Dell Technology) - Hardware and Software
+- **Cloud Services:** Microsoft Azure, Amazon Web Services (AWS)
+- **Technical Troubleshooting:** Network, Windows, Linux, MS-DOS
+- **Cyber Security:** Checkpoint (R81.20), Cisco ASA & ISA Firewall, Bitdefender EDR, Clear-swift Secure Email Gateway, VPN, Snort, MITREATT&CK framework, ES Splunk
+- **Scripting:** PowerShell, Python
+- **Database Management:** SQL Server, MongoDB
+**Virtualisation:** VMware ESX-I, vSphere, Docker, Kubernetes
+- **Infrastructure as Code (Iac):** Terraform
+- **Configuration environments management:** Ansible
+- **DevOps:** GitHub, Jenkins
+- **VOIP:** MITEL 3300 Telephony
+- **Microsoft Exchange Server**
+- **Windows Server:** (IIS, WSUS, Active Directory, GPO, FTP, SFTP, Event Monitoring, workflow( business processing), DNS server, Load Balancer, SSL, server environment)
+- **Backup Technology:** Veeam and Yousmite
+- **Door system Technology:** Paxton system
+- **Asset Management:** Asset-i
