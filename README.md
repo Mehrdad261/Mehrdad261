@@ -231,7 +231,7 @@ This project involved designing, implementing, and managing a CheckPoint securit
 - ***Cyber Security:*** Checkpoint (R81.20), Cisco ASA & ISA Firewall, Bitdefender EDR, Clear-swift Secure Email Gateway, VPN, Snort, MITREATT&CK framework, ES Splunk
 - ***Scripting:*** PowerShell, Python
 - ***Database Management:*** SQL Server, MongoDB
-- ***Virtualisation:*** VMware ESX-I, vSphere, Docker, Kubernetes
+- ***Virtualisation:*** VMware ESXi, vSphere, Docker, Kubernetes
 - ***Infrastructure as Code (Iac):*** Terraform
 - ***Configuration environments management:*** Ansible
 - ***DevOps:*** GitHub, Jenkins
