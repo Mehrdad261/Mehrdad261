@@ -84,6 +84,7 @@
 <h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/success.gif" width="40" height="40"/> Certifications</h2><br/>
 <p>I believe in continuous learning and hold several industry-recognised certifications:</p>
 <h5>&nbsp;&#x2022;&nbsp;&nbsp;CCNP Enterprise</h5>
+<h5>&nbsp;&#x2022;&nbsp;&nbsp;CISCO ISE</h5>
 <h5>&nbsp;&#x2022;&nbsp;&nbsp;AWS Certified Solutions Architect - Associate</h5>
 <h5>&nbsp;&#x2022;&nbsp;&nbsp;Microsoft Certified: Azure Administrator Associate (AZ-104)</h5>
 <h5>&nbsp;&#x2022;&nbsp;&nbsp;CheckPoint Certified Security Administrator (CCSA) R81.20</h5>
@@ -97,19 +98,20 @@
 <h5>&nbsp;&#x2022;&nbsp;&nbsp;Cisco Certified Network Associate (CCNA)</h5>
 <br/>
 <h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/project-initiation.gif" width="40" height="40"/> Projects</h2>
-<h3>Project1: VMware ESXi and vSphere Virtualization Deployment</h3>
-<h4>Overview</h4>
+<h3>Project_1: VMware ESXi and vSphere Virtualization Deployment</h3>
+
+#### 📝 Overview
 <p>This project focused on migrating multiple physical servers into a consolidated virtual infrastructure using VMware ESXi and vSphere.  
 The goal was to reduce hardware costs, improve resource utilisation, and enhance system performance and scalability.</p>
 
-#### Key Objectives
+#### 🎯 Key Objectives
 <p>- Deploy VMware ESXi as a secure, high-performance virtualisation platform</p>
 <p>- Implement VMware vSphere for centralised management and monitoring</p> 
 <p>- Virtualise legacy physical servers with minimal downtime </p>
 <p>- Optimise compute, memory, and storage allocation</p> 
 <p>- Improve disaster recovery and business continuity</p>
 
-#### Implementation Details
+#### ⚙️ Implementation Details
 1. **ESXi Configuration**   
    - Configured storage, networking, and host profiles on ESXi
 
@@ -124,14 +126,14 @@ The goal was to reduce hardware costs, improve resource utilisation, and enhance
    - Allocated CPU, memory, and storage dynamically to meet workload demands  
    - Implemented monitoring and alerts for capacity planning  
 
-#### Results and Benefits
+#### 📈 Results and Benefits
 - **Cost Savings:** Reduced hardware footprint and power consumption  
 - **Performance Gains:** Improved system responsiveness and workload efficiency  
 - **Simplified Management:** Centralized VM administration through vSphere  
 - **Scalability:** Easily add or adjust resources as business needs grow  
 - **Business Continuity:** Improved backup, snapshot, and disaster recovery capabilities  
 
-#### Technologies Used
+#### 💻 Technologies Used
 - VMware ESXi 8.5
 - VMware vSphere 8.0 / vCenter Server 
 - VMware vCenter Converter
@@ -139,8 +141,54 @@ The goal was to reduce hardware costs, improve resource utilisation, and enhance
 
   <hr style="border-top: 1px dashed #bbb;" />
 
-<h3>Project 2: Create VPC and connect it to the On-Prem</h3>
+<h3> project_2: Check Point Security Project</h3> 
 
+This repository demonstrates the implementation and management of a **Check Point Security Infrastructure** for a corporate environment, focusing on performance, high availability, and secure connectivity.
 
+#### 📝 Overview
+This project involved designing, implementing, and managing a full Check Point security environment. It includes firewall policies, NAT rules, VPNs, clusters, threat prevention, logging, and monitoring, ensuring a secure, high-performance, and highly available network infrastructure.
+
+#### 🎯 Key Objectives
+- Optimise firewall performance and rule management.
+- Ensure high availability and redundancy using clusters.
+- Establish secure connectivity between corporate and disaster recovery sites.
+- Centralise logging, monitoring, and reporting of security events.
+- Implement threat prevention and enforce policy compliance.
+
+#### ⚙️ Implementation Details
+- **Performance Optimisation:** Designed and implemented inline rules to improve firewall efficiency by 30%.  
+- **High Availability & Redundancy:** Configured **ClusterXL** clusters for continuous uptime and failover.  
+- **VPN Connectivity:**
+  - Established **Site-to-Site VPN** with an interoperable device.
+  - Deployed **Remote Access VPN** for secure remote connections.
+- **NAT & Firewall Rules:** Created multiple NAT rules and customised firewall rules for optimised traffic routing.  
+- **Dedicated Log Server:** Configured centralised logging for visibility and auditing and purse all the logs to the Splunk.  
+- **SmartEvent Deployment:** Implemented SmartEvent for real-time monitoring, reporting, and alerting.  
+- **Threat Prevention Customisation:** Tuned security policies for optimal protection and performance.  
+- **Policy Compliance Monitoring:** Ensured adherence to internal and regulatory security standards.  
+- **Performance Tuning:** Optimised Security Gateway performance for high throughput and reliability.
+
+#### 📈 Results and Benefits
+- **30% performance improvement** through optimized inline rules.  
+- **Highly available and redundant network security infrastructure**.  
+- **Secure and reliable connectivity** between corporate and disaster recovery sites.  
+- **Centralised logging, monitoring, and reporting** for better visibility and control.  
+- **Optimised threat prevention** policies tailored to the company’s needs.
+
+#### 🌟 Impact
+- Increased overall security efficiency and reliability.  
+- Reduced downtime with high availability clusters.  
+- Enabled secure, flexible access for remote users and inter-site communication.  
+- Improved management insights through centralised monitoring and reporting.
+
+#### 💻 Technologies Used
+- Smart console R81.20
+- Checkpoint R81.20
+- Ansible 2.0
+
+#### 🌐 links
+<a href="https://lnkd.in/eBFXiBYd" target="_blank">configure Automatic and Manual NAT in Check Point R81.20</a><br/>
+<a href="https://lnkd.in/gVQGyS6e" target="_blank">How to Configure Hide NAT in the Check Point Firewall via Ansible</a><br/>
+  <hr style="border-top: 1px dashed #bbb;" />
 
 
