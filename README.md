@@ -6,7 +6,7 @@
 
 
 
-<h2>❗About Me</h2>
+<h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/news.gif" width="50" height="60" />About Me</h2>
 <div>Highly motivated IT & Security Infrastructure Engineer with 10+ years of experience in designing, implementing, and managing complex IT systems and security solutions across on-premises and cloud environments (Azure, AWS). Proven ability to lead projects and troubleshoot complex issues. Expertise in Windows Server, Linux, virtualisation (VMware), networking (Cisco, Dell), security (Check Point, Bitdefender), and cloud technologies. Strong understanding of ITIL, ISO 27001, and industry best practices.</div> <br/>
 
 <p align="left">
