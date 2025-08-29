@@ -74,7 +74,7 @@
 </table>
 <br/>
 <br/>
-<h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/certification.png" width="40" height="40" alt="Windows Server" />Work experience</h2>
+<h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/briefcase.gif" width="40" height="40"/> Work experience</h2>
 <h4>&#x2022; Senior Network Security & Infrastructure engineer | OPAL-UK | St.Albnas, UK | Feb 2024 - Present </h4>
 <h4>&#x2022; Senior IT Operation | UCL (University College of London)| London, UK | March 2023 - April 2024</h4>
 <h4>&#x2022; Senior Security & IT Infrastructure | Pars ISP | Dubai, UAE | Feb 2022 - April 2023 </h4>
