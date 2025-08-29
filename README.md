@@ -92,6 +92,8 @@
 <h4>&#x2022; Network & Security Infrastructure manager | Iran Dairy | Tehran, Iran | March 2014 - March 2018 </h4>
 <br/>
 
+## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/success.gif" width="40" height="40"/> Education<br/>
+
 ## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/success.gif" width="40" height="40"/> Certifications<br/>
 <p>I believe in continuous learning and hold several industry-recognised certifications:</p>
 <h5>&nbsp;&#x2022;&nbsp;&nbsp;CCNP Enterprise</h5>
