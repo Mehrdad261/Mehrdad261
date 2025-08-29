@@ -6,7 +6,8 @@
 
 
 
-<h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/news.gif" width="50" height="60" />About Me</h2>
+## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/news.gif" width="50" height="60" />About Me
+<br/>
 <div>Highly motivated IT & Security Infrastructure Engineer with 10+ years of experience in designing, implementing, and managing complex IT systems and security solutions across on-premises and cloud environments (Azure, AWS). Proven ability to lead projects and troubleshoot complex issues. Expertise in Windows Server, Linux, virtualisation (VMware), networking (Cisco, Dell), security (Check Point, Bitdefender), and cloud technologies. Strong understanding of ITIL, ISO 27001, and industry best practices.</div> <br/>
 
 <p align="left">
@@ -19,7 +20,8 @@
 
 
 
-<h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/service-tools.gif" width="50" height="60" /> Technologies and tools I work with</h2><br/>
+## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/service-tools.gif" width="50" height="60" />Technologies and tools I work with
+<br/>
 <table>
 <tr>
 <td align="center" width="120">
@@ -80,14 +82,17 @@
 </table>
 <br/>
 <br/>
-<h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/briefcase.gif" width="40" height="40"/> Work experience</h2>
+
+## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/briefcase.gif" width="40" height="40"/> Work experience
+<br/>
 <h4>&#x2022; Senior Network Security & Infrastructure engineer | OPAL-UK | St.Albnas, UK | Feb 2024 - Present </h4>
 <h4>&#x2022; Senior IT Operation | UCL (University College of London)| London, UK | March 2023 - April 2024</h4>
 <h4>&#x2022; Senior Security & IT Infrastructure | Pars ISP | Dubai, UAE | Feb 2022 - April 2023 </h4>
 <h4>&#x2022; Network & IT Infrastructure manager | CommonStations LTD | London, UK | Sep 2018 - Jan 2020 </h4>
 <h4>&#x2022; Network & Security Infrastructure manager | Iran Dairy | Tehran, Iran | March 2014 - March 2018 </h4>
 <br/>
-<h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/success.gif" width="40" height="40"/> Certifications</h2><br/>
+
+## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/success.gif" width="40" height="40"/> Certifications<br/>
 <p>I believe in continuous learning and hold several industry-recognised certifications:</p>
 <h5>&nbsp;&#x2022;&nbsp;&nbsp;CCNP Enterprise</h5>
 <h5>&nbsp;&#x2022;&nbsp;&nbsp;CISCO ISE</h5>
@@ -145,11 +150,11 @@ The goal was to reduce hardware costs, improve resource utilisation, and enhance
 - VMware vCenter Converter
 - Dell/HP server hardware
 
-  <hr style="border-top: 1px dashed #bbb;" />
+<hr style="border-top: 1px dashed #bbb;" />
 
-<h3> project_2: Check Point Security Project</h3> 
+<h3> project_2: CheckPoint firewall configuration</h3> 
 
-This repository demonstrates the implementation and management of a **Check Point Security Infrastructure** for a corporate environment, focusing on performance, high availability, and secure connectivity.
+This repository demonstrates the implementation and management of a **Check Point Security Infrastructure**, with a focus on policy and rule management, performance, high availability, and secure connectivity.  
 
 #### 📝 Overview
 This project involved designing, implementing, and managing a full Check Point security environment. It includes firewall policies, NAT rules, VPNs, clusters, threat prevention, logging, and monitoring, ensuring a secure, high-performance, and highly available network infrastructure.
@@ -195,6 +200,18 @@ This project involved designing, implementing, and managing a full Check Point s
 #### 🌐 links
 <a href="https://lnkd.in/eBFXiBYd" target="_blank">configure Automatic and Manual NAT in Check Point R81.20</a><br/>
 <a href="https://lnkd.in/gVQGyS6e" target="_blank">How to Configure Hide NAT in the Check Point Firewall via Ansible</a><br/>
-  <hr style="border-top: 1px dashed #bbb;" />
+<hr style="border-top: 1px dashed #bbb;" />
 
+<h3> project_4: Create Virtual Network in AWS (VPC) and connect it with On-Prem</h3> 
+.
+.
+.
+.
+<hr style="border-top: 1px dashed #bbb;" />
+
+<h3> project_5: Create and implement Vnet, ASG, NSG, WAF, Express Route, Bastion connection </h3> 
+.
+.
+.
+<hr style="border-top: 1px dashed #bbb;" />
 
