@@ -206,20 +206,19 @@ This project involved designing, implementing, and managing a CheckPoint securit
 <br/>
 
 ## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/success.gif" width="40" height="40"/> Certifications<br/>
-<p>I believe in continuous learning and hold several industry-recognised certifications:</p>
-<h5>&nbsp;&#x2022;&nbsp;&nbsp;CCNP Enterprise</h5>
-<h5>&nbsp;&#x2022;&nbsp;&nbsp;CISCO ISE</h5>
-<h5>&nbsp;&#x2022;&nbsp;&nbsp;AWS Certified Solutions Architect - Associate</h5>
-<h5>&nbsp;&#x2022;&nbsp;&nbsp;Microsoft Certified: Azure Administrator Associate (AZ-104)</h5>
-<h5>&nbsp;&#x2022;&nbsp;&nbsp;CheckPoint Certified Security Administrator (CCSA) R81.20</h5>
-<h5>&nbsp;&#x2022;&nbsp;&nbsp; VMware Certified Professional - Data Centre Virtualisation 2024 (VCP-DCV)</h5>
-<h5>&nbsp;&#x2022;&nbsp;&nbsp;Microsoft Exchange Server 2019 (Installation & Management)</h5>
-<h5>&nbsp;&#x2022;&nbsp;&nbsp;Linux Red Hat Administrator ( RHCSA)</h5>
-<h5>&nbsp;&#x2022;&nbsp;&nbsp;Linux Professional Institute Certification(LPIC-1 , LPIC-2 & LPIC-3 )</h5>
-<h5>&nbsp;&#x2022;&nbsp;&nbsp;ITIL 4 Foundation</h5>
-<h5>&nbsp;&#x2022;&nbsp;&nbsp;ISO 27001</h5>
-<h5>&nbsp;&#x2022;&nbsp;&nbsp;Security+ CompTIA</h5>
-<h5>&nbsp;&#x2022;&nbsp;&nbsp;Cisco Certified Network Associate (CCNA)</h5>
+### I believe in continuous learning and hold several industry-recognised certifications
+- <small>**CCNP Enterprise**</small>
+- <small>**CISCO ISE**</small>
+- <small>**AWS Certified Solutions Architect-Associate**</small>
+- <small>**Microsoft Certified: Azure Administrator Associate-(AZ-104)**</small>
+- <small>**CheckPoint Certified Security Administrator-(CCSA) R81.20**</small>
+- <small>**Microsoft Exchange Server 2019-(Installation & Management)**</small>
+- <small>**Linux Red Hat Administrator-( RHCSA)**</small>
+- <small>**Linux Professional Institute Certification(LPIC-1 , LPIC-2 & LPIC-3 )**</small>
+- <small>**ITIL 4 Foundation**</small>
+- <small>**ISO 27001**</small>
+- <small>**Security+ CompTIA**</small>
+- <small>**Cisco Certified Network Associate (CCNA)**</small>
 <br/>
 
 ## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/Skills.gif" width="50" height="60" /> Skills Demonstrated
