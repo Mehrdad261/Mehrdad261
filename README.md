@@ -70,6 +70,9 @@
     <td align="center" width="120">
 <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/zscaler.png" width="100" height="80" alt="Windows Server" />
 </td>
+     <td align="center" width="120">
+<img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/pngegg.png" width="100" height="80" alt="Windows Server" />
+</td>
 </tr>
 </table>
 <br/>
