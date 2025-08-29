@@ -206,7 +206,7 @@ This project involved designing, implementing, and managing a CheckPoint securit
 <br/>
 
 ## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/success.gif" width="40" height="40"/> Certifications<br/>
-### I believe in continuous learning and hold several industry-recognised certifications
+#### I believe in continuous learning and hold several industry-recognised certifications
 - <small>**CCNP Enterprise**</small>
 - <small>**CISCO ISE**</small>
 - <small>**AWS Certified Solutions Architect-Associate**</small>
