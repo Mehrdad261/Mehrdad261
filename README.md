@@ -62,16 +62,19 @@
 </tr>
   <tr>
 <td align="center" width="120">
-<img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/checkpoint.png" width="70" height="70" alt="Windows Server" />
+<img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/checkpoint.png" width="70" height="70" alt="checkpoint" />
 </td>
 <td align="center" width="120">
-<img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/VMware-icon.png" width="70" height="70" alt="Windows Server" />
+<img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/VMware-icon.png" width="70" height="70" alt="VMware-icon" />
 </td>
     <td align="center" width="120">
-<img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/zscaler.png" width="100" height="80" alt="Windows Server" />
+<img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/zscaler.png" width="100" height="80" alt="zscaler" />
 </td>
      <td align="center" width="120">
-<img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/pngegg.png" width="100" height="80" alt="Windows Server" />
+<img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/pngegg.png" width="100" height="80" alt="pngegg" />
+</td>
+    <td align="center" width="120">
+<img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/cisco-ise.png" width="70" height="70" alt="cisco-ise" />
 </td>
 </tr>
 </table>
