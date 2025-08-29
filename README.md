@@ -96,10 +96,13 @@ CCNP Enterprise
 
 ITIL 4 Foundation
 
-📊 GitHub Stats
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mehrdad261&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrdad261&layout=compact&langs_count=8&theme=dracula"/>
-</p>
+<h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/certification.png" width="40" height="40" alt="Windows Server" />Project</h2>
+<h3>VMware ESXi and vSphere Virtualization Deployment</h3>
+<h4>Overview</h4>
+<p>This project focused on migrating multiple physical servers into a consolidated virtual infrastructure using VMware ESXi and vSphere.  
+The goal was to reduce hardware costs, improve resource utilisation, and enhance system performance and scalability.</p>
 
-Note: Replace Mehrdad261 with your actual GitHub username if it's different.
+
+
+
+
