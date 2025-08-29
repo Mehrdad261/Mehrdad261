@@ -200,6 +200,28 @@ This project involved designing, implementing, and managing a CheckPoint securit
 .
 <hr style="border-top: 1px dashed #bbb;" />
 
+#### *project_6: Remove User Profiles from Windows Servers (PowerShell)* 
+
+#### 📝 Overview
+This PowerShell script automatically removes all non-system user profiles from a Windows server to free up disk space. 
+
+#### ⚙️ Features
+- Skips system and special profiles (`Default`, `Public`, `Administrator`)
+- Permanently deletes all remaining profiles
+- Run automatically using Windows Task Scheduler
+- Run this script **as Administrator** or configure Task Scheduler to **Run with highest privileges**.
+
+#### 🚨 Safety Notes
+- This will permanently remove user profiles and all associated data.
+- Test on a non-production system first.
+- Profiles currently in use will not be removed.
+
+#### 💻 Script
+<a href="https://gitlab.com/Mehrdad261/cleanup-userprofile-windows/-/tree/main?ref_type=heads">Cleanup.ps1</a>
+
+
+<hr style="border-top: 1px dashed #bbb;" />
+
 ## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/graduate.gif" width="40" height="40"/> Education<br/>
 - **Bachelor of Science in Software Engineering | Isfahan University | Isfahan, Iran | July 2011**
 <br/>
