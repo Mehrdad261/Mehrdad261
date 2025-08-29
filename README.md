@@ -94,7 +94,7 @@
 
 
 ## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/project-initiation.gif" width="40" height="40"/> Projects 
-<h3>Project_1: VMware ESXi and vSphere Virtualization Deployment</h3>
+#### *Project_1: VMware ESXi and vSphere Virtualisation Deployment*
 
 #### 📝 Overview
 <p>This project focused on migrating multiple physical servers into a consolidated virtual infrastructure using VMware ESXi and vSphere.  
@@ -137,12 +137,12 @@ The goal was to reduce hardware costs, improve resource utilisation, and enhance
 
 <hr style="border-top: 1px dashed #bbb;" />
 
-<h3> project_2: CheckPoint firewall configuration</h3> 
+#### *project_2: CheckPoint firewall configuration*
 
 This repository demonstrates the implementation and management of a **Check Point Security Infrastructure**, with a focus on policy and rule management, performance, high availability, and secure connectivity.  
 
 #### 📝 Overview
-This project involved designing, implementing, and managing a full Check Point security environment. It includes firewall policies, NAT rules, VPNs, clusters, threat prevention, logging, and monitoring, ensuring a secure, high-performance, and highly available network infrastructure.
+This project involved designing, implementing, and managing a CheckPoint security environment. It includes firewall policies, NAT rules, VPNs, clusters, threat prevention, logging, and monitoring, ensuring a secure, high-performance, and highly available network infrastructure.
 
 #### 🎯 Key Objectives
 - Optimise firewall performance and rule management.
@@ -187,14 +187,14 @@ This project involved designing, implementing, and managing a full Check Point s
 <a href="https://lnkd.in/gVQGyS6e" target="_blank">How to Configure Hide NAT in the Check Point Firewall via Ansible</a><br/>
 <hr style="border-top: 1px dashed #bbb;" />
 
-<h3> project_4: Create Virtual Network in AWS (VPC) and connect it with On-Prem</h3> 
+#### *project_4: Create a Virtual Network in AWS (VPC) and connect it with On-Prem*
 .
 .
 .
 .
 <hr style="border-top: 1px dashed #bbb;" />
 
-<h3> project_5: Create and implement Vnet, ASG, NSG, WAF, Express Route, Bastion connection </h3> 
+#### *project_5: Create and implement Vnet, ASG, NSG, WAF, Express Route, Bastion connection* 
 .
 .
 .
@@ -223,22 +223,22 @@ This project involved designing, implementing, and managing a full Check Point s
 <br/>
 
 ## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/Skills.gif" width="50" height="60" /> Skills Demonstrated
-- **Operating Systems:** Windows, Linux, Mac
-- **System Administration:** Windows Servers, Linux Server (RedHat, Ubuntu)
-- **Network:** 3COM, HP, Dell, CISCO, Novell Network
-- **Storage Technology:** SAN (Dell Technology) - Hardware and Software
-- **Cloud Services:** Microsoft Azure, Amazon Web Services (AWS)
-- **Technical Troubleshooting:** Network, Windows, Linux, MS-DOS
-- **Cyber Security:** Checkpoint (R81.20), Cisco ASA & ISA Firewall, Bitdefender EDR, Clear-swift Secure Email Gateway, VPN, Snort, MITREATT&CK framework, ES Splunk
-- **Scripting:** PowerShell, Python
-- **Database Management:** SQL Server, MongoDB
-**Virtualisation:** VMware ESX-I, vSphere, Docker, Kubernetes
-- **Infrastructure as Code (Iac):** Terraform
-- **Configuration environments management:** Ansible
-- **DevOps:** GitHub, Jenkins
-- **VOIP:** MITEL 3300 Telephony
-- **Microsoft Exchange Server**
-- **Windows Server:** (IIS, WSUS, Active Directory, GPO, FTP, SFTP, Event Monitoring, workflow( business processing), DNS server, Load Balancer, SSL, server environment)
-- **Backup Technology:** Veeam and Yousmite
-- **Door system Technology:** Paxton system
-- **Asset Management:** Asset-i
+- ***Operating Systems:*** Windows, Linux, Mac
+- ***System Administration:*** Windows Servers, Linux Server (RedHat, Ubuntu)
+- ***Network:**** 3COM, HP, Dell, CISCO, Novell Network
+- ***Storage Technology:*** SAN (Dell Technology) - Hardware and Software
+- ***Cloud Services:*** Microsoft Azure, Amazon Web Services (AWS)
+- ***Technical Troubleshooting:*** Network, Windows, Linux, MS-DOS
+- ***Cyber Security:*** Checkpoint (R81.20), Cisco ASA & ISA Firewall, Bitdefender EDR, Clear-swift Secure Email Gateway, VPN, Snort, MITREATT&CK framework, ES Splunk
+- ***Scripting:*** PowerShell, Python
+- ***Database Management:*** SQL Server, MongoDB
+- ***Virtualisation:*** VMware ESX-I, vSphere, Docker, Kubernetes
+- ***Infrastructure as Code (Iac):*** Terraform
+- ***Configuration environments management:*** Ansible
+- ***DevOps:*** GitHub, Jenkins
+- ***VOIP:*** MITEL 3300 Telephony
+- ***Microsoft Exchange Server***
+- ***Windows Server:*** (IIS, WSUS, Active Directory, GPO, FTP, SFTP, Event Monitoring, workflow( business processing), DNS server, Load Balancer, SSL, server environment)
+- ***Backup Technology:*** Veeam and Yousmite
+- ***Door system Technology:*** Paxton system
+- ***Asset Management:*** Asset-i
