@@ -1,6 +1,6 @@
 
 <div style="text-align:center;">
-  <img src="https://placehold.co/800x200/6366f1/FFFFFF?text=Mehrdad+Mokhtari\nNetwrokand+and+Infrasturcture+security" alt="Header Image showing title" />
+  <img src="https://placehold.co/800x200/6366f1/FFFFFF?text=Mehrdad+Mokhtari\nSenior+Netwrok+and+Infrasturcture+security" alt="Header Image showing title" />
 </div><br/>
 
 
@@ -81,20 +81,14 @@
 <h4>&#x2022; Network & IT Infrastructure manager | CommonStations LTD | London, UK | Sep 2018 - Jan 2020 </h4>
 <h4>&#x2022; Network & Security Infrastructure manager | Iran Dairy | Tehran, Iran | March 2014 - March 2018 </h4>
 
-<h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/success.gif" width="40" height="40"/> Certifications</h2>
-I believe in continuous learning and hold several industry-recognised certifications:
-
-AWS Certified Solutions Architect - Associate
-
-Microsoft Certified: Azure Administrator Associate (AZ-104)
-
-CheckPoint Certified Security Administrator (CCSA) R81.20
-
-VMware Certified Professional - Data Centre Virtualisation 2024 (VCP-DCV)
-
-CCNP Enterprise
-
-ITIL 4 Foundation
+<h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/success.gif" width="40" height="40"/> Certifications</h2><br/>
+<p>I believe in continuous learning and hold several industry-recognised certifications:</p>
+<h5>&nbsp;&#x2022;&nbsp;&nbsp;AWS Certified Solutions Architect - Associate</h5>
+<h5>&nbsp;&#x2022;&nbsp;&nbsp;Microsoft Certified: Azure Administrator Associate (AZ-104)</h5>
+<h5>&nbsp;&#x2022;&nbsp;&nbsp;CheckPoint Certified Security Administrator (CCSA) R81.20</h5>
+<h5>&nbsp;&#x2022;&nbsp;&nbsp; VMware Certified Professional - Data Centre Virtualisation 2024 (VCP-DCV)</h5>
+<h5>&nbsp;&#x2022;&nbsp;&nbsp;CCNP Enterprise</h5>
+<h5>&nbsp;&#x2022;&nbsp;&nbsp;ITIL 4 Foundation</h5><br/>
 
 <h2><img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/project-initiation.gif" width="40" height="40"/> Project</h2>
 <h3>VMware ESXi and vSphere Virtualization Deployment</h3>
