@@ -197,7 +197,7 @@ This project involved designing, implementing, and managing a full Check Point s
 - Checkpoint R81.20
 - Ansible 2.0
 
-#### 🌐 links
+#### 🔗 Related Projects / LinkedIn Feature
 <a href="https://lnkd.in/eBFXiBYd" target="_blank">configure Automatic and Manual NAT in Check Point R81.20</a><br/>
 <a href="https://lnkd.in/gVQGyS6e" target="_blank">How to Configure Hide NAT in the Check Point Firewall via Ansible</a><br/>
 <hr style="border-top: 1px dashed #bbb;" />
