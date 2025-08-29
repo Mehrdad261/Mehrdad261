@@ -215,7 +215,7 @@ This project involved designing, implementing, and managing a full Check Point s
 .
 <hr style="border-top: 1px dashed #bbb;" />
 
-## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/service-tools.gif" width="50" height="60" /> Skills Demonstrated
+## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/Skills.gif" width="50" height="60" /> Skills Demonstrated
 - **Operating Systems:** Windows, Linux, Mac
 - **System Administration:** Windows Servers, Linux Server (RedHat, Ubuntu)
 - **Network:** 3COM, HP, Dell, CISCO, Novell Network
