@@ -25,59 +25,76 @@
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/AWS.png" width="70" height="70" />
+  <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/AWS.png" width="70" height="70" />
 </td>
+  
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="70" height="70" alt="Azure" />
 </td>
+
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="70" height="70" alt="Terraform" />
 </td>
+
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" height="70" alt="Docker" />
 </td>
+
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="70" height="70" alt="Kubernetes" />
 </td>
+
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="70" height="70" alt="Ansible" />
 </td>
 </tr>
+
 <tr>
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" alt="Python" />
 </td>
+  
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="70" height="70" alt="PowerShell" />
 </td>
+
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70" alt="Linux" />
 </td>
+
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="70" height="70" alt="Windows Server" />
 </td>
+
 <td align="center" width="120">
 <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/Cisco.png" width="70" height="70" alt="Cisco" />
 </td>
+
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="70" height="70" alt="Jenkins" />
 </tr>
+
   <tr>
 <td align="center" width="120">
 <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/checkpoint.png" width="70" height="70" alt="checkpoint" />
 </td>
+    
 <td align="center" width="120">
 <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/VMware-icon.png" width="70" height="70" alt="VMware-icon" />
 </td>
-    <td align="center" width="120">
+
+<td align="center" width="120">
 <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/zscaler.png" width="100" height="80" alt="zscaler" />
 </td>
-     <td align="center" width="120">
+
+<td align="center" width="120">
 <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/pngegg.png" width="100" height="80" alt="pngegg" />
 </td>
-    <td align="center" width="120">
+
+<td align="center" width="120">
 <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/cisco-ise.png" width="70" height="70" alt="cisco-ise" />
 </td>
+
 </tr>
 </table>
 <br/>
