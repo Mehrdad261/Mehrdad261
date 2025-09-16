@@ -208,7 +208,7 @@ This project involved designing, implementing, and managing a CheckPoint securit
 <a href="https://lnkd.in/gVQGyS6e" target="_blank">How to Configure Hide NAT in the Check Point Firewall via Ansible</a><br/>
 <hr style="border-top: 1px dashed #bbb;" />
 
-#### *project_7: Secure and Harden Active Directory* 
+#### *project_3: Secure and Harden Active Directory* 
 
 #### 🎯 Key Objectives
 - reducing the risk of unauthorised access
@@ -242,6 +242,7 @@ This project involved designing, implementing, and managing a CheckPoint securit
 
 <hr style="border-top: 1px dashed #bbb;" />
 
+#### *project_4: Secure and Harden Active Directory* 
 #### 📝 Overview
 This PowerShell script automatically removes all non-system user profiles from a Windows server to free up disk space. 
 
@@ -263,14 +264,8 @@ This PowerShell script automatically removes all non-system user profiles from a
 <hr style="border-top: 1px dashed #bbb;" />
 
 
-#### *project_4: Create a Virtual Network in AWS (VPC) and connect it with On-Prem*
+#### *project_5: Create a Virtual Network in AWS (VPC) and connect it with On-Prem*
 .
-.
-.
-.
-<hr style="border-top: 1px dashed #bbb;" />
-
-#### *project_5: Create and implement Vnet, ASG, NSG, WAF, Express Route, Bastion connection in Azure Cloud environment* 
 .
 .
 .
@@ -282,7 +277,13 @@ This PowerShell script automatically removes all non-system user profiles from a
 .
 <hr style="border-top: 1px dashed #bbb;" />
 
-#### *project_4: Create a Virtual Network in AWS (VPC) and connect it with On-Prem*
+#### *project_7: Create and implement Vnet, ASG, NSG, WAF, Express Route, Bastion connection in Azure Cloud environment* 
+.
+.
+.
+<hr style="border-top: 1px dashed #bbb;" />
+
+#### *project_8: Create a Virtual Network in AWS (VPC) and connect it with On-Prem*
 .
 .
 .
