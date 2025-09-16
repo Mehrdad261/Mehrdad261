@@ -278,7 +278,7 @@ This PowerShell script automatically removes all non-system user profiles from a
 .
 <hr style="border-top: 1px dashed #bbb;" />
 
-#### *project_7: Create and implement Vnet, ASG, NSG, WAF, Express Route, Bastion connection in Azure Cloud environment* 
+#### *project_7: Create and implement Vnet, ASG, NSG, WAF, Express Route, Bastion connection in Azure Cloud environment through Terraform (IaC)* 
 .
 .
 .
