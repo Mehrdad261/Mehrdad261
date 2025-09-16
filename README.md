@@ -265,6 +265,27 @@ This PowerShell script automatically removes all non-system user profiles from a
 <hr style="border-top: 1px dashed #bbb;" />
 
 
+#### *project_5: Network Infrastructure Implementation and Rack Recabling Project*
+
+#### 📝 Overview
+design and set up a flexible network using Cisco devices, working with routing protocols like OSPF, BGP, and EIGRP to keep traffic running smoothly. I also took part in restoring and reorganising the server room, including recabling all the racks. This made maintenance easier and boosted the overall performance and reliability of the network.
+
+#### 🎯 Key Objectives
+- Design and implement a scalable network infrastructure using Cisco devices.
+- Configure dynamic routing protocols (OSPF, BGP, EIGRP)
+- Restore the server room to improve operational efficiency.
+- Recable entire racks to ensure tidy, manageable and more accurate 
+
+#### ⚙️ Implementation Details
+- Installed and configured Cisco routers and switches for core and edge network segments.
+- Set up OSPF for internal routing, BGP for external routing with ISPs, and EIGRP for backup
+- Restoration of the server room, including physical cleaning and equipment organisation.
+- Replaced and structured cabling across racks, labelling cables and establishing proper cable management
+
+
+<hr style="border-top: 1px dashed #bbb;" />
+
+
 #### *project_5: Create a Virtual Network in AWS (VPC) and connect it with On-Prem*
 .
 .
