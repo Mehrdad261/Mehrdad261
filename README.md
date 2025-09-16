@@ -227,7 +227,46 @@ This project involved designing, implementing, and managing a CheckPoint securit
 .
 <hr style="border-top: 1px dashed #bbb;" />
 
-#### *project_7: Remove User Profiles from Windows Servers (PowerShell)* 
+#### *project_4: Create a Virtual Network in AWS (VPC) and connect it with On-Prem*
+.
+.
+.
+.
+<hr style="border-top: 1px dashed #bbb;" />
+
+#### *project_7: Secure and Harden Active Directory* 
+
+#### 🎯 Key Objectives
+- reducing the risk of unauthorised access
+- privilege escalation, and lateral movement within the network.
+
+#### ⚙️ Implementation Details
+- Disabled unnecessary services and features on DCs.
+- Hardened default domain and domain controller (DC) group policies.
+- Restricted Domain Admin privileges using dedicated admin accounts and hardened jump servers.
+- Implemented Just-in-Time (JIT) models using Microsoft Privileged Access Management (PAM).
+- Enforced time-limited and approval-based access to sensitive AD objects.
+- Integrated SIEM (Splunk) to collect and analyse security logs.
+- Enforced Kerberos-only authentication and disabled legacy protocols
+- Required multi-factor authentication (MFA) for administrative access and VPN login
+- Enforced LDAPS and disabled unsigned LDAP binds.
+- Tested AD disaster recovery and incident response plans.
+
+#### 📈 Results and Benefits
+- Reduced Attack Surface
+- Improved Access Control
+- Compliance Alignment
+
+#### 💻 Technologies Used
+- Microsoft Active Directory
+- Group Policy (GPO)
+- Microsoft Privileged Access Management (PAM)
+- PowerShell / AD PowerShell Module
+- Microsoft Defender for Identity
+- SIEM Platforms (e.g. Splunk)
+- Multi-Factor Authentication (MFA)
+
+<hr style="border-top: 1px dashed #bbb;" />
 
 #### 📝 Overview
 This PowerShell script automatically removes all non-system user profiles from a Windows server to free up disk space. 
