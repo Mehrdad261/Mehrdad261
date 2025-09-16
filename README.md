@@ -221,7 +221,13 @@ This project involved designing, implementing, and managing a CheckPoint securit
 .
 <hr style="border-top: 1px dashed #bbb;" />
 
-#### *project_6: Remove User Profiles from Windows Servers (PowerShell)* 
+#### *project_6: Create and implement Vnet, ASG, NSG, WAF, Express Route, Bastion connection in Azure Cloud environment* 
+.
+.
+.
+<hr style="border-top: 1px dashed #bbb;" />
+
+#### *project_7: Remove User Profiles from Windows Servers (PowerShell)* 
 
 #### 📝 Overview
 This PowerShell script automatically removes all non-system user profiles from a Windows server to free up disk space. 
