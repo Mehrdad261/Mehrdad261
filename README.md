@@ -215,7 +215,7 @@ This project involved designing, implementing, and managing a CheckPoint securit
 .
 <hr style="border-top: 1px dashed #bbb;" />
 
-#### *project_5: Create and implement Vnet, ASG, NSG, WAF, Express Route, Bastion connection* 
+#### *project_5: Create and implement Vnet, ASG, NSG, WAF, Express Route, Bastion connection in Azure Cloud environment* 
 .
 .
 .
