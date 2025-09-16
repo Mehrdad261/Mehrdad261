@@ -242,7 +242,8 @@ This project involved designing, implementing, and managing a CheckPoint securit
 
 <hr style="border-top: 1px dashed #bbb;" />
 
-#### *project_4: Secure and Harden Active Directory* 
+#### *project_4: Automate removal of non-system users through PowerShell* 
+
 #### 📝 Overview
 This PowerShell script automatically removes all non-system user profiles from a Windows server to free up disk space. 
 
