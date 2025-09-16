@@ -208,32 +208,6 @@ This project involved designing, implementing, and managing a CheckPoint securit
 <a href="https://lnkd.in/gVQGyS6e" target="_blank">How to Configure Hide NAT in the Check Point Firewall via Ansible</a><br/>
 <hr style="border-top: 1px dashed #bbb;" />
 
-#### *project_4: Create a Virtual Network in AWS (VPC) and connect it with On-Prem*
-.
-.
-.
-.
-<hr style="border-top: 1px dashed #bbb;" />
-
-#### *project_5: Create and implement Vnet, ASG, NSG, WAF, Express Route, Bastion connection in Azure Cloud environment* 
-.
-.
-.
-<hr style="border-top: 1px dashed #bbb;" />
-
-#### *project_6: Create and implement Vnet, ASG, NSG, WAF, Express Route, Bastion connection in Azure Cloud environment* 
-.
-.
-.
-<hr style="border-top: 1px dashed #bbb;" />
-
-#### *project_4: Create a Virtual Network in AWS (VPC) and connect it with On-Prem*
-.
-.
-.
-.
-<hr style="border-top: 1px dashed #bbb;" />
-
 #### *project_7: Secure and Harden Active Directory* 
 
 #### 🎯 Key Objectives
@@ -286,6 +260,33 @@ This PowerShell script automatically removes all non-system user profiles from a
 <a href="https://gitlab.com/Mehrdad261/cleanup-userprofile-windows/-/tree/main?ref_type=heads">Cleanup.ps1</a>
 
 
+<hr style="border-top: 1px dashed #bbb;" />
+
+
+#### *project_4: Create a Virtual Network in AWS (VPC) and connect it with On-Prem*
+.
+.
+.
+.
+<hr style="border-top: 1px dashed #bbb;" />
+
+#### *project_5: Create and implement Vnet, ASG, NSG, WAF, Express Route, Bastion connection in Azure Cloud environment* 
+.
+.
+.
+<hr style="border-top: 1px dashed #bbb;" />
+
+#### *project_6: Create and implement Vnet, ASG, NSG, WAF, Express Route, Bastion connection in Azure Cloud environment* 
+.
+.
+.
+<hr style="border-top: 1px dashed #bbb;" />
+
+#### *project_4: Create a Virtual Network in AWS (VPC) and connect it with On-Prem*
+.
+.
+.
+.
 <hr style="border-top: 1px dashed #bbb;" />
 
 ## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/graduate.gif" width="40" height="40"/> Education<br/>
