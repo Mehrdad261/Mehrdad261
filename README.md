@@ -295,7 +295,7 @@ This PowerShell script automatically removes all non-system user profiles from a
 - **Bachelor of Science in Software Engineering | Isfahan University | Isfahan, Iran | July 2011**
 #### Currently learning:
 - **SEC530: Defensible Security Architecture and Engineering: Implementing Zero Trust for the Hybrid Enterprise**
-  #### 🔗 Related Link
+#### 🔗 Related Link
 - https://www.sans.org/cyber-security-courses/defensible-security-architecture-and-engineering 
 <br/>
 <br/>
