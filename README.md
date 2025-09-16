@@ -267,7 +267,7 @@ This PowerShell script automatically removes all non-system user profiles from a
 ## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/Skills.gif" width="50" height="60" /> Skills Demonstrated
 - ***Operating Systems:*** Windows, Linux, Mac
 - ***System Administration:*** Windows Servers, Linux Server (RedHat, Ubuntu)
-- ***Network:**** 3COM, HP, Dell, CISCO, Novell Network
+- ***Network:*** 3COM, HP, Dell, CISCO, Novell Network
 - ***Storage Technology:*** SAN (Dell Technology) - Hardware and Software
 - ***Cloud Services:*** Microsoft Azure, Amazon Web Services (AWS)
 - ***Technical Troubleshooting:*** Network, Windows, Linux, MS-DOS
