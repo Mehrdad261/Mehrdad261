@@ -299,7 +299,7 @@ design and set up a flexible network using Cisco devices, working with routing p
 .
 <hr style="border-top: 1px dashed #bbb;" />
 
-#### *project_7: Create and implement Vnet, ASG, NSG, WAF, Express Route, Bastion connection in Azure Cloud environment through Terraform (IaC)* 
+#### *project_7: Create and implement Vnet, ASG, NSG, WAF in Azure Cloud environment through Terraform (IaC)* 
 .
 .
 .
