@@ -115,7 +115,7 @@
 
 
 ## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/project-initiation.gif" width="40" height="40"/> Projects 
-#### <span style="color:red"> 🔴 *Upgrade physical servers and desktops into the virtual* </sapn>
+#### 🔴 *Upgrade physical servers and desktops into the virtual*
 
 #### 📝 Overview
 <p>This project focused on migrating multiple physical servers into a consolidated virtual infrastructure using VMware ESXi and vSphere.  
