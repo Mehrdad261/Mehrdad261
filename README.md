@@ -150,7 +150,7 @@ The goal was to reduce hardware costs, improve resource utilisation, and enhance
 - **Scalability:** Easily add or adjust resources as business needs grow  
 - **Business Continuity:** Improved backup, snapshot, and disaster recovery capabilities  
 
-#### 💻 Technologies Used
+#### 🛠️ Technologies Used
 - VMware ESXi 8.5
 - VMware vSphere 8.0 / vCenter Server 
 - VMware vCenter Converter
@@ -198,7 +198,7 @@ This project involved designing, implementing, and managing a CheckPoint securit
 - Enabled secure, flexible access for remote users and inter-site communication.  
 - Improved management insights through centralised monitoring and reporting.
 
-#### 💻 Technologies Used
+#### 🛠️ Technologies Used
 - Smart console R81.20
 - Checkpoint R81.20
 - Ansible 2.0
@@ -231,7 +231,7 @@ This project involved designing, implementing, and managing a CheckPoint securit
 - Improved Access Control
 - Compliance Alignment
 
-#### 💻 Technologies Used
+#### 🛠️ Technologies Used
 - Microsoft Active Directory
 - Group Policy (GPO)
 - Microsoft Privileged Access Management (PAM)
@@ -257,6 +257,17 @@ This PowerShell script automatically removes all non-system user profiles from a
 - This will permanently remove user profiles and all associated data.
 - Test on a non-production system first.
 - Profiles currently in use will not be removed.
+
+#### 🌟 Impact
+- Frees up disk space by removing unnecessary user profiles automatically.
+- Improves server performance by reducing clutter
+
+
+#### 🛠️ Technologies Used
+- **Operating System:** Windows Server (all supported versions)
+- **Scripting Language:** PowerShell
+- **Tools:** Windows Task Scheduler (for automation)
+
 
 #### 💻 Script
 <a href="https://gitlab.com/Mehrdad261/cleanup-userprofile-windows/-/tree/main?ref_type=heads">Cleanup.ps1</a>
