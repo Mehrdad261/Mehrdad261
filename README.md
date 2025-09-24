@@ -208,6 +208,8 @@ This project involved designing, implementing, and managing a CheckPoint securit
 <a href="https://lnkd.in/gVQGyS6e" target="_blank">How to Configure Hide NAT in the Check Point Firewall via Ansible</a><br/>
 <hr style="border-top: 1px dashed #bbb;" />
 
+<!-- ACTIVE DIRECTROY SECTION -->
+
 #### 🔴 *Secure and Harden Active Directory* 
 
 #### 🎯 Key Objectives
@@ -242,6 +244,8 @@ This project involved designing, implementing, and managing a CheckPoint securit
 
 <hr style="border-top: 1px dashed #bbb;" />
 
+<!-- POWERSHELL SECTION -->
+
 #### 🔴 *Automate removal of non-system users through PowerShell* 
 
 #### 📝 Overview
@@ -275,6 +279,7 @@ This PowerShell script automatically removes all non-system user profiles from a
 
 <hr style="border-top: 1px dashed #bbb;" />
 
+<!-- NETWORK SECTION -->
 
 #### 🔴 *Network Infrastructure Implementation and Rack Recabling Project*
 
@@ -296,6 +301,7 @@ Design and set up a flexible network using Cisco devices, working with routing p
 
 <hr style="border-top: 1px dashed #bbb;" />
 
+<!-- AWS SECTION -->
 
 #### 🔴 *Create a Virtual Network in AWS (VPC) and connect it with On-Prem*
 .
