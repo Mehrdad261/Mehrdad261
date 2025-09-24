@@ -76,7 +76,7 @@
 
   <tr>
 <td align="center" width="120">
-<img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/checkpoint.png" width="70" height="70" alt="checkpoint" />
+<img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/CCSA_badge_2022.png" width="70" height="70" alt="checkpoint" />
 </td>
     
 <td align="center" width="120">
