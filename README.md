@@ -115,6 +115,9 @@
 
 
 ## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/project-initiation.gif" width="40" height="40"/> Projects 
+
+<!-- EXSI SERVER SECTION -->
+
 #### 🔴 *Upgrade physical servers and desktops into the virtual*
 
 #### 📝 Overview
@@ -157,6 +160,9 @@ The goal was to reduce hardware costs, improve resource utilisation, and enhance
 - Dell/HP server hardware
 
 <hr style="border-top: 1px dashed #bbb;" />
+
+
+<!-- CHECKPOINT SECTION -->
 
 #### 🔴 *CheckPoint firewall configuration*
 
@@ -208,6 +214,7 @@ This project involved designing, implementing, and managing a CheckPoint securit
 <a href="https://lnkd.in/gVQGyS6e" target="_blank">How to Configure Hide NAT in the Check Point Firewall via Ansible</a><br/>
 <hr style="border-top: 1px dashed #bbb;" />
 
+
 <!-- ACTIVE DIRECTROY SECTION -->
 
 #### 🔴 *Secure and Harden Active Directory* 
@@ -244,6 +251,8 @@ This project involved designing, implementing, and managing a CheckPoint securit
 
 <hr style="border-top: 1px dashed #bbb;" />
 
+
+
 <!-- POWERSHELL SECTION -->
 
 #### 🔴 *Automate removal of non-system users through PowerShell* 
@@ -279,6 +288,9 @@ This PowerShell script automatically removes all non-system user profiles from a
 
 <hr style="border-top: 1px dashed #bbb;" />
 
+
+
+
 <!-- NETWORK SECTION -->
 
 #### 🔴 *Network Infrastructure Implementation and Rack Recabling Project*
@@ -301,6 +313,9 @@ Design and set up a flexible network using Cisco devices, working with routing p
 
 <hr style="border-top: 1px dashed #bbb;" />
 
+
+
+
 <!-- AWS SECTION -->
 
 #### 🔴 *Create a Virtual Network in AWS (VPC) and connect it with On-Prem*
@@ -309,6 +324,10 @@ Design and set up a flexible network using Cisco devices, working with routing p
 .
 .
 <hr style="border-top: 1px dashed #bbb;" />
+
+
+
+<!-- AZURE SECTION -->
 
 #### 🔴 *Create and implement Vnet, ASG, NSG, WAF, Express Route, Bastion connection in Azure Cloud environment* 
 .
