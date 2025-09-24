@@ -288,7 +288,48 @@ Configured a WSUS server on Windows Server 2019 to centralise and manage patchin
 
 <hr style="border-top: 1px dashed #bbb;" />
 
+<!--  *------------------------------------- DHCP SERVER SECTION----------------------------------------*  -->
 
+#### 🔴 *Install and configure a DHCP server in windows*
+
+#### 📝 Overview
+
+Installed and configured a DHCP server to automate IP address allocation and manage network configuration.
+
+#### 🎯 Key Objectives
+
+- Automate IP address for all client devices.
+- Reduce manual configuration errors and IP conflicts.
+- Simplify network management and scalability.
+
+#### ⚙️ Implementation Details
+
+- Installed the DHCP server role on Windows Server.
+- Configured DHCP scopes with IP ranges suitable for different departments in the company.
+- Configured DHCP options, including default gateway and DNS servers.
+- Enabled monitoring and logging for troubleshooting and audit purposes.
+- Integrated DHCP with Active Directory for secure and centralised management.
+
+#### 📈 Results and Benefits
+
+- Automatic IP address assignment to all client devices.
+- Reduced IP conflicts.
+- Simplified network management for IT staff.
+- Improved network scalability and flexibility for future growth.
+
+#### 🌟 Impact
+
+- Increased IT team efficiency by removing manual IP configuration tasks.
+- Provided a foundation for other network services like DNS, WSUS, and VPN.
+
+#### 🛠️ Technologies Used
+
+- **Operating System:** Windows Server 2016/2019
+- **Role/Feature:** DHCP Server
+- **Tools:** DHCP Management Console, PowerShell for DHCP configuration
+- **Integration:** Active Directory, DNS
+
+<hr style="border-top: 1px dashed #bbb;" />
 
 <!-- -------------------------------------POWERSHELL SECTION---------------------------------------- -->
 
