@@ -158,7 +158,7 @@ The goal was to reduce hardware costs, improve resource utilisation, and enhance
 
 <hr style="border-top: 1px dashed #bbb;" />
 
-#### *CheckPoint firewall configuration*
+#### 🔴 *CheckPoint firewall configuration*
 
 This repository demonstrates the implementation and management of a **Check Point Security Infrastructure**, with a focus on policy and rule management, performance, high availability, and secure connectivity.  
 
@@ -208,7 +208,7 @@ This project involved designing, implementing, and managing a CheckPoint securit
 <a href="https://lnkd.in/gVQGyS6e" target="_blank">How to Configure Hide NAT in the Check Point Firewall via Ansible</a><br/>
 <hr style="border-top: 1px dashed #bbb;" />
 
-#### *Secure and Harden Active Directory* 
+#### 🔴 *Secure and Harden Active Directory* 
 
 #### 🎯 Key Objectives
 - reducing the risk of unauthorised access
@@ -242,7 +242,7 @@ This project involved designing, implementing, and managing a CheckPoint securit
 
 <hr style="border-top: 1px dashed #bbb;" />
 
-#### *Automate removal of non-system users through PowerShell* 
+#### 🔴 *Automate removal of non-system users through PowerShell* 
 
 #### 📝 Overview
 This PowerShell script automatically removes all non-system user profiles from a Windows server to free up disk space. 
@@ -265,10 +265,10 @@ This PowerShell script automatically removes all non-system user profiles from a
 <hr style="border-top: 1px dashed #bbb;" />
 
 
-#### *Network Infrastructure Implementation and Rack Recabling Project*
+#### 🔴 *Network Infrastructure Implementation and Rack Recabling Project*
 
 #### 📝 Overview
-design and set up a flexible network using Cisco devices, working with routing protocols like OSPF, BGP, and EIGRP to keep traffic running smoothly. I also took part in restoring and reorganising the server room, including recabling all the racks. This made maintenance easier and boosted the overall performance and reliability of the network.
+Design and set up a flexible network using Cisco devices, working with routing protocols like OSPF, BGP, and EIGRP to keep traffic running smoothly. I also took part in restoring and reorganising the server room, including recabling all the racks. This made maintenance easier and boosted the overall performance and reliability of the network.
 
 #### 🎯 Key Objectives
 - Design and implement a scalable network infrastructure using Cisco devices.
@@ -286,26 +286,26 @@ design and set up a flexible network using Cisco devices, working with routing p
 <hr style="border-top: 1px dashed #bbb;" />
 
 
-#### *Create a Virtual Network in AWS (VPC) and connect it with On-Prem*
+#### 🔴 *Create a Virtual Network in AWS (VPC) and connect it with On-Prem*
 .
 .
 .
 .
 <hr style="border-top: 1px dashed #bbb;" />
 
-#### *Create and implement Vnet, ASG, NSG, WAF, Express Route, Bastion connection in Azure Cloud environment* 
+#### 🔴 *Create and implement Vnet, ASG, NSG, WAF, Express Route, Bastion connection in Azure Cloud environment* 
 .
 .
 .
 <hr style="border-top: 1px dashed #bbb;" />
 
-#### *Create and implement Vnet, ASG, NSG, WAF in Azure Cloud environment through Terraform (IaC)* 
+#### 🔴 *Create and implement Vnet, ASG, NSG, WAF in Azure Cloud environment through Terraform (IaC)* 
 .
 .
 .
 <hr style="border-top: 1px dashed #bbb;" />
 
-#### *Create a Virtual Network in AWS (VPC) and connect it with On-Prem*
+#### 🔴 *Create a Virtual Network in AWS (VPC) and connect it with On-Prem*
 .
 .
 .
