@@ -161,6 +161,14 @@ The goal was to reduce hardware costs, improve resource utilisation, and enhance
 
 <hr style="border-top: 1px dashed #bbb;" />
 
+<!--  ----------------------------------------------------------------------------------------  -->
+
+
+
+
+
+
+
 
 <!-- *-------------------------------------CHECKPOINT SECTION----------------------------------------* -->
 
@@ -213,6 +221,13 @@ This project involved designing, implementing, and managing a CheckPoint securit
 <a href="https://lnkd.in/eBFXiBYd" target="_blank">configure Automatic and Manual NAT in Check Point R81.20</a><br/>
 <a href="https://lnkd.in/gVQGyS6e" target="_blank">How to Configure Hide NAT in the Check Point Firewall via Ansible</a><br/>
 <hr style="border-top: 1px dashed #bbb;" />
+<!--  ----------------------------------------------------------------------------------------  -->
+
+
+
+
+
+
 
 <!-- *-------------------------------------WSUS SECTION----------------------------------------* -->
 
@@ -251,6 +266,12 @@ Configured a WSUS server on Windows Server 2019 to centralise and manage patchin
 - **Clients:** Windows 10, Windows 11, Windows Server 2016/2019
 - **Tools:** Group Policy, WSUS Console, PowerShell for WSUS management
 <hr style="border-top: 1px dashed #bbb;" />
+<!--  ----------------------------------------------------------------------------------------  -->
+
+
+
+
+
 
 <!-- *-------------------------------------ACTIVE DIRECTORY SECTION----------------------------------------* -->
 
@@ -287,6 +308,11 @@ Configured a WSUS server on Windows Server 2019 to centralise and manage patchin
 - Multi-Factor Authentication (MFA)
 
 <hr style="border-top: 1px dashed #bbb;" />
+<!--  ----------------------------------------------------------------------------------------  -->
+
+
+
+
 
 <!--  *------------------------------------- DHCP SERVER SECTION----------------------------------------*  -->
 
@@ -330,6 +356,11 @@ Installed and configured a DHCP server to automate IP address allocation and man
 - **Integration:** Active Directory, DNS
 
 <hr style="border-top: 1px dashed #bbb;" />
+<!--  ----------------------------------------------------------------------------------------  -->
+
+
+
+
 
 <!-- -------------------------------------POWERSHELL SECTION---------------------------------------- -->
 
@@ -365,7 +396,7 @@ This PowerShell script automatically removes all non-system user profiles from a
 
 
 <hr style="border-top: 1px dashed #bbb;" />
-
+<!--  ----------------------------------------------------------------------------------------  -->
 
 
 
@@ -374,7 +405,7 @@ This PowerShell script automatically removes all non-system user profiles from a
 #### 🔴 *Network Infrastructure Implementation and Rack Recabling Project*
 
 #### 📝 Overview
-Design and set up a flexible network using Cisco devices, working with routing protocols like OSPF, BGP, and EIGRP to keep traffic running smoothly. I also took part in restoring and reorganising the server room, including recabling all the racks. This made maintenance easier and boosted the overall performance and reliability of the network.
+Design and set up a flexible network using Cisco devices, working with routing protocols such as OSPF, BGP, and EIGRP to ensure traffic runs smoothly. I also took part in restoring and reorganising the server room, including recabling all the racks. This made maintenance easier and boosted the overall performance and reliability of the network.
 
 #### 🎯 Key Objectives
 - Design and implement a scalable network infrastructure using Cisco devices.
@@ -389,42 +420,81 @@ Design and set up a flexible network using Cisco devices, working with routing p
 - Replaced and structured cabling across racks, labelling cables and establishing proper cable management
 
 
+#### 📈 Results and Benefits
+
+- Improved network performance with optimised routing.
+- Operational efficiency in the server room with organised racks and cabling.
+- Simplified troubleshooting and maintenance due to structured cabling and clear labelling.
+- Increased uptime and stability of both internal and external network connections.
+
+
+#### 🌟 Impact
+
+- Improving overall IT operational efficiency and reducing downtime.
+- Enabled faster deployment and integration of new devices and services.
+- Improved team productivity by providing a clean, well-organised server environment.
+- Strengthened network reliability, supporting business-critical applications with minimal disruption.
+
+#### 🛠️ Technologies Used
+
+- **Networking Devices:** Cisco Routers & Switches
+- **Routing Protocols:** OSPF, BGP, EIGRP
+- **Network Tools:** Cisco IOS, CLI, SolarWinds (Network monitoring tools)
+- **Infrastructure:** Server room racks, structured cabling, cable management tools
+
 <hr style="border-top: 1px dashed #bbb;" />
 
+<!--  ----------------------------------------------------------------------------------------  -->
 
 
-
-<!-- AWS SECTION -->
+<!--  -----------------------------------------VPC SECTION-----------------------------------------------  -->
 
 #### 🔴 *Create a Virtual Network in AWS (VPC) and connect it with On-Prem*
-.
-.
-.
-.
+
+#### 📝 Overview
+Created an AWS Virtual Private Cloud (VPC) and connected it securely to the on-premises network, enabling a hybrid cloud environment for seamless communication between cloud and local resources.
+
+#### 🎯 Key Objectives
+
+- Deploy a secure and scalable AWS VPC.
+- Connect cloud resources with the on-premises network.
+- Ensure traffic control, segmentation, and high availability.
+- Support hybrid cloud workloads efficiently.
+
+#### ⚙️ Implementation
+
+- Designed VPC with public and private subnets.
+- Configured route tables, internet and NAT gateways.
+- Established VPN/Direct Connect tunnel to on-prem network.
+- Set up security groups and network ACLs for traffic control.
+- Tested and monitored connectivity between cloud and on-premises systems.
+
+#### 📈 Result & Benefits
+
+- Secure and reliable hybrid cloud connectivity.
+- Simplified management of cloud and on-prem resources.
+- Reduced latency and improved data transfer efficiency.
+- Enhanced network security through segmentation and access controls.
+
+#### 🌟 Impact
+
+- Boosted business flexibility with hybrid cloud capabilities.
+- Improved disaster recovery and continuity options.
+- Increased IT efficiency and streamlined network management.
+- Supported scalable deployment of cloud applications without affecting on-prem systems.
+
+#### 🛠️ Technology Used
+
+ - **AWS Services:** VPC, Subnets, Security Groups, Route Tables, Internet & NAT Gateway
+ - **Connectivity:** VPN or AWS Direct Connect
+ - **Networking:** On-Prem Routers, Firewalls, Switches
+ - **Monitoring & Tools:** AWS CloudWatch, VPC Flow Logs
+ - **IaC:** Terraform
+ - 
 <hr style="border-top: 1px dashed #bbb;" />
 
 
-
-<!-- AZURE SECTION -->
-
-#### 🔴 *Create and implement Vnet, ASG, NSG, WAF, Express Route, Bastion connection in Azure Cloud environment* 
-.
-.
-.
-<hr style="border-top: 1px dashed #bbb;" />
-
-#### 🔴 *Create and implement Vnet, ASG, NSG, WAF in Azure Cloud environment through Terraform (IaC)* 
-.
-.
-.
-<hr style="border-top: 1px dashed #bbb;" />
-
-#### 🔴 *Create a Virtual Network in AWS (VPC) and connect it with On-Prem*
-.
-.
-.
-.
-<hr style="border-top: 1px dashed #bbb;" />
+<!--  ----------------------------------------------------------------------------------------  -->
 
 ## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/graduate.gif" width="40" height="40"/> Education<br/>
 - **Bachelor of Science in Software Engineering | Isfahan University | Isfahan, Iran | July 2011**
