@@ -116,7 +116,7 @@
 
 ## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/project-initiation.gif" width="40" height="40"/> Projects 
 
-<!-- EXSI SERVER SECTION -->
+<!--  *-------------------------------------EXSI SERVER SECTION----------------------------------------*  -->
 
 #### 🔴 *Upgrade physical servers and desktops into the virtual*
 
@@ -162,7 +162,7 @@ The goal was to reduce hardware costs, improve resource utilisation, and enhance
 <hr style="border-top: 1px dashed #bbb;" />
 
 
-<!-- CHECKPOINT SECTION -->
+<!-- *-------------------------------------CHECKPOINT SECTION----------------------------------------* -->
 
 #### 🔴 *CheckPoint firewall configuration*
 
@@ -214,7 +214,7 @@ This project involved designing, implementing, and managing a CheckPoint securit
 <a href="https://lnkd.in/gVQGyS6e" target="_blank">How to Configure Hide NAT in the Check Point Firewall via Ansible</a><br/>
 <hr style="border-top: 1px dashed #bbb;" />
 
-<!-- wsus SECTION -->
+<!-- *-------------------------------------WSUS SECTION----------------------------------------* -->
 
 #### 🔴 *Create, configure and implement WSUS (Windows Server Update Services)* 
 
@@ -246,14 +246,13 @@ Configured a WSUS server on Windows Server 2019 to centralise and manage patchin
 - **Role/Feature:**  Windows Server Update Services (WSUS)
 - **Clients:**  Windows 10, Windows 11, Windows Server 2016/2019
 - **Tools:**  Group Policy, WSUS Console, PowerShell for WSUS management 
-<hr style="border-top: 1px dashed #bbb;" />
 - **Operating System:** Windows Server 2019
-Role/Feature: Windows Server Update Services (WSUS)
-Clients: Windows 10, Windows 11, Windows Server 2016/2019
-Tools: Group Policy, WSUS Console, PowerShell for WSUS management
+- **Role/Feature:** Windows Server Update Services (WSUS)
+- **Clients:** Windows 10, Windows 11, Windows Server 2016/2019
+- **Tools:** Group Policy, WSUS Console, PowerShell for WSUS management
+<hr style="border-top: 1px dashed #bbb;" />
 
-
-<!-- ACTIVE DIRECTROY SECTION -->
+<!-- *-------------------------------------ACTIVE DIRECTORY SECTION----------------------------------------* -->
 
 #### 🔴 *Secure and Harden Active Directory* 
 
@@ -291,7 +290,7 @@ Tools: Group Policy, WSUS Console, PowerShell for WSUS management
 
 
 
-<!-- POWERSHELL SECTION -->
+<!-- -------------------------------------POWERSHELL SECTION---------------------------------------- -->
 
 #### 🔴 *Automate removal of non-system users through PowerShell* 
 
@@ -329,7 +328,7 @@ This PowerShell script automatically removes all non-system user profiles from a
 
 
 
-<!-- NETWORK SECTION -->
+<!--  -------------------------------------NETWORK SECTION----------------------------------------  -->
 
 #### 🔴 *Network Infrastructure Implementation and Rack Recabling Project*
 
