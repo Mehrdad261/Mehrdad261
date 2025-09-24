@@ -214,6 +214,44 @@ This project involved designing, implementing, and managing a CheckPoint securit
 <a href="https://lnkd.in/gVQGyS6e" target="_blank">How to Configure Hide NAT in the Check Point Firewall via Ansible</a><br/>
 <hr style="border-top: 1px dashed #bbb;" />
 
+<!-- wsus SECTION -->
+
+#### 🔴 *Create, configure and implement WSUS (Windows Server Update Services)* 
+
+#### 📝 Overview
+Configured a WSUS server on Windows Server 2019 to centralise and manage patching across all Windows devices in the company network. WSUS allows automated deployment of security updates, critical patches, and feature updates, reducing the risk of vulnerabilities.
+
+#### 🎯 Key Objectives
+
+- Centralise patch management for all Windows systems in the organisation.
+- Deployment of security and critical updates.
+- Reduce manual update effort.
+- Improve overall IT infrastructure security and compliance.
+
+#### ⚙️ Implementation Details
+- Installed WSUS role on Windows Server 2019.
+- Configured WSUS synchronisation with Microsoft Update to download patches.
+- Created update classifications (Critical, Security, Feature updates) and products (Windows 10, Server 2019,...).
+- Set up approval rules and automatic deployment schedules.
+- Configured Group Policy to direct client machines to the WSUS server for updates.
+  
+#### 📈 Results and Benefits
+- Centralised patch deployment across the company.
+- Reduced time and effort for manual updates on client machines.
+- Improved compliance with security standards and regulatory requirements.
+- Decreased risk of vulnerabilities due to timely updates.
+
+#### 🛠️ Technologies Used
+- **Operating System:**  Windows Server 2019
+- **Role/Feature:**  Windows Server Update Services (WSUS)
+- **Clients:**  Windows 10, Windows 11, Windows Server 2016/2019
+- **Tools:**  Group Policy, WSUS Console, PowerShell for WSUS management 
+<hr style="border-top: 1px dashed #bbb;" />
+- **Operating System:** Windows Server 2019
+Role/Feature: Windows Server Update Services (WSUS)
+Clients: Windows 10, Windows 11, Windows Server 2016/2019
+Tools: Group Policy, WSUS Console, PowerShell for WSUS management
+
 
 <!-- ACTIVE DIRECTROY SECTION -->
 
