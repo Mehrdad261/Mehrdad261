@@ -147,7 +147,7 @@ The goal was to reduce hardware costs, improve resource utilisation, and enhance
    - Implemented monitoring and alerts for capacity planning  
 
 #### 📈 Results and Benefits
-- **Cost Savings:** Reduced hardware footprint and power consumption  
+- **Cost Savings:** Reducing the space used by hardware and the power consumption.  
 - **Performance Gains:** Improved system responsiveness and workload efficiency  
 - **Simplified Management:** Centralized VM administration through vSphere  
 - **Scalability:** Easily add or adjust resources as business needs grow  
