@@ -116,6 +116,31 @@
 
 #### <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/project-initiation.gif" width="40" height="40"/> Projects 
 <hr style="border-top: 1px dashed #bbb;" />
+
+
+<!--  *-------------------------------------checkpoint upgrade SECTION----------------------------------------*  -->
+
+#### 🔴 *Exchange Server Migration: 2010 → 2019*
+
+<hr style="border-top: 1px dashed #bbb;" />
+
+<!--  ----------------------------------------------------------------------------------------  -->
+
+
+
+
+<!--  *-------------------------------------checkpoint upgrade SECTION----------------------------------------*  -->
+
+#### 🔴 *Upgrade Check Point Firewall: 6000 Series to 9000 Series*
+
+<hr style="border-top: 1px dashed #bbb;" />
+
+<!--  ----------------------------------------------------------------------------------------  -->
+
+
+
+
+
 <!--  *-------------------------------------EXSI SERVER SECTION----------------------------------------*  -->
 
 #### 🔴 *Upgrade physical servers and desktops into the virtual*
