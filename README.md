@@ -117,6 +117,14 @@
 #### <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/project-initiation.gif" width="40" height="40"/> Projects 
 <hr style="border-top: 1px dashed #bbb;" />
 
+<!--  *-------------------------------------Splunk SECTION----------------------------------------*  -->
+
+#### 🔴 *Splunk Deployment: Install, License, Log Parsing, and Dashboarding*
+
+<hr style="border-top: 1px dashed #bbb;" />
+
+<!--  ----------------------------------------------------------------------------------------  -->
+
 
 <!--  *-------------------------------------checkpoint upgrade SECTION----------------------------------------*  -->
 
@@ -532,11 +540,12 @@ Created an AWS Virtual Private Cloud (VPC) and connected it securely to the on-p
 
 ## <img src="https://github.com/Mehrdad261/Mehrdad261/blob/main/success.gif" width="40" height="40"/> Certifications<br/>
 #### I believe in continuous learning and hold several industry-recognised certifications
+- <small>**Check Point Certified Security Expert (CCSE)**</small>
 - <small>**CCNP Enterprise**</small>
 - <small>**CISCO ISE**</small>
 - <small>**AWS Certified Solutions Architect-Associate**</small>
 - <small>**Microsoft Certified: Azure Administrator Associate-(AZ-104)**</small>
-- <small>**CheckPoint Certified Security Administrator-(CCSA) R81.20**</small>
+- <small>**CheckPoint Certified Security Administrator(CCSA) R81.20**</small>
 - <small>**Microsoft Exchange Server 2019-(Installation & Management)**</small>
 - <small>**Linux Red Hat Administrator-( RHCSA)**</small>
 - <small>**Linux Professional Institute Certification(LPIC-1 , LPIC-2 & LPIC-3 )**</small>
