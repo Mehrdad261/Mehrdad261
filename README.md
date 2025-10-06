@@ -210,8 +210,6 @@ The goal:
 
 #### 🔴 *CheckPoint firewall configuration*
 
-This repository demonstrates the implementation and management of a **Check Point Security Infrastructure**, with a focus on policy and rule management, performance, high availability, and secure connectivity.  
-
 #### 📝 Overview
 This project involved designing, implementing, and managing a CheckPoint security environment. It includes firewall policies, NAT rules, VPNs, clusters, threat prevention, logging, and monitoring, ensuring a secure, high-performance, and highly available network infrastructure.
 
