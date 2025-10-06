@@ -154,9 +154,12 @@
 #### 🔴 *Upgrade physical servers and desktops into the virtual*
 
 #### 📝 Overview
-<p>This project focused on migrating multiple physical servers into a consolidated virtual infrastructure using VMware ESXi and vSphere.  
-The goal was to reduce hardware costs, improve resource utilisation, and enhance system performance and scalability.</p>
-
+This project focused on migrating multiple physical servers into a solid virtual infrastructure using VMware ESXi and vSphere.  
+The goal:
+  - reduce hardware costs
+  - improve resource utilisation
+  - and improve system performance and scalability
+    
 #### 🎯 Key Objectives
 <p>- Deploy VMware ESXi as a secure, high-performance virtualisation platform</p>
 <p>- Implement VMware vSphere for centralised management and monitoring</p> 
