@@ -193,7 +193,8 @@ The goal:
 - VMware ESXi 8.5
 - VMware vSphere 8.0 / vCenter Server 
 - VMware vCenter Converter
-- Dell/HP server hardware
+- Dell storage devices
+- HP servers
 
 <hr style="border-top: 1px dashed #bbb;" />
 
@@ -248,7 +249,8 @@ This project involved designing, implementing, and managing a CheckPoint securit
 
 #### 🛠️ Technologies Used
 - Smart console R81.20
-- Checkpoint R81.20
+- Security management server
+- Gaia Portal
 - Ansible 2.0
 
 #### 🔗 Related Projects / LinkedIn Feature
