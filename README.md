@@ -565,7 +565,7 @@ Created an AWS Virtual Private Cloud (VPC) and connected it securely to the on-p
 - ***Storage Technology:*** SAN (Dell Technology) - Hardware and Software
 - ***Cloud Services:*** Microsoft Azure, Amazon Web Services (AWS)
 - ***Technical Troubleshooting:*** Network, Windows, Linux, MS-DOS
-- ***Cyber Security:*** Checkpoint (R81.20), Cisco ASA & ISA Firewall, Bitdefender EDR, Clear-swift Secure Email Gateway, VPN, Snort, MITREATT&CK framework, ES Splunk
+- ***Cyber Security:*** Checkpoint (R81.20), Cisco ASA & ISA Firewall, Bitdefender EDR, Clear-swift Secure Email Gateway, VPN, MITRE&ATTCK framework, ES Splunk
 - ***Scripting:*** PowerShell, Python
 - ***Database Management:*** SQL Server, MongoDB
 - ***Virtualisation:*** VMware ESXi, vSphere, Docker, Kubernetes
