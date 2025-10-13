@@ -136,10 +136,40 @@
 
 
 
-
 <!--  *-------------------------------------checkpoint upgrade SECTION----------------------------------------*  -->
 
 #### 🔴 *Upgrade Check Point Firewall: 6000 Series to 9000 Series*
+
+#### 📝 Overview
+As the project lead, I led the successful upgrade of our Check Point firewall infrastructure from the 6000 Series to the high-performance 9000 Series. 
+This upgrade was a critical part of our network upgrade strategy to improve performance,  security, and scalability for future growth.
+
+#### 🎯 Key Objectives
+- Lead the full upgrade process end-to-end.
+- Ensure a smooth migration with zero downtime.
+- Review, refine, and optimise firewall rules and policies.
+
+#### ⚙️ Implementation Details
+- Planning, including performance analysis, risk assessment, and scheduling.
+- Deployed and configured new Check Point 9000 Series appliances in an HA cluster
+- Migrated policies and configurations using SmartConsole and GAiA CLI tools
+
+#### 📈 Results and Benefits
+- Improved performance in throughput and session handling
+- Enabled advanced threat prevention (Threat Emulation, Threat Extraction, etc.)
+- Zero service disruption during the transition
+
+#### 🌟 Impact
+- The upgrade improved performance, enhanced security, reduced maintenance, and future-proofed our network.
+
+#### 🛠️ Technologies Used
+- Check Point 6000 & 9000 Series Appliances
+- Check Point R81 and R82 SmartConsole
+- GAiA OS
+- ClusterXL (High Availability)
+- SmartLog, SmartView, SmartDashboard
+- CLI Scripting for Policy & System Management
+
 
 <hr style="border-top: 1px dashed #bbb;" />
 
